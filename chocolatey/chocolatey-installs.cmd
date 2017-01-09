@@ -5,6 +5,6 @@ choco install notepadplusplus -y
 choco install virtualbox -y
 choco install libreoffice -y
 choco install rufus -y
+choco install vlc -y
 rem TODO
-rem vlc
-rem openvpn ?
+rem   openvpn ?
