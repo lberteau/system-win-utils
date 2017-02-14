@@ -7,5 +7,6 @@ choco install libreoffice -y
 choco install rufus -y
 choco install vlc -y
 choco install dropbox -y
+choco install sabnzbd -y
 rem TODO
 rem   openvpn ?
