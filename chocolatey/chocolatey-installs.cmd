@@ -8,5 +8,7 @@ choco install rufus -y
 choco install vlc -y
 choco install dropbox -y
 choco install sabnzbd -y
+choco install handbrake -y
+choco install mediainfo -y
 rem TODO
 rem   openvpn ?
